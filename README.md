@@ -1,4 +1,4 @@
-# Whatsapp_spam_bot
+# Whatsapp spam bot
 
 This repository contains a Python script that can be used to send spam messages to a specified WhatsApp contact. Use with caution!
 
