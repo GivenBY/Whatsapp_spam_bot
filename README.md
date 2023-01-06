@@ -13,7 +13,10 @@ git clone https://github.com/GivenBY/Whatsapp_spam_bot.git
 ```
 python spam_bot.py
 ```
-
+3. Install the Dependencies.
+``` 
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
