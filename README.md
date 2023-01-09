@@ -11,7 +11,7 @@ git clone https://github.com/GivenBY/Whatsapp_spam_bot.git
 
 2. Run the script
 ```
-python spam_bot.py
+python whatsapp.py
 ```
 3. Install the Dependencies.
 ``` 
